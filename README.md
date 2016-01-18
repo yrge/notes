@@ -1,0 +1,2 @@
+# notes
+ipython notebook notes
